@@ -524,4 +524,4 @@ delete语句是删除表中的行，delete不删除表本身
 - 对update或delete语句使用where子句之前，最好先用select进行测试
 - 使用强制实施引用完整性的数据库
 
-<<[第1-10章](./Chapter1-10.md) 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　>>[第21-30章](./Chapter21-30.md)
+<<[第1-10章](./Chapter1-10.md) 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　>>[第21-30章](./Chapter21-30.md)
